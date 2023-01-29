@@ -21,3 +21,8 @@
     
 })(jQuery);
 
+
+var y = document.getElementById('year');
+year = new Date().getFullYear();
+console.log(year);
+y.innerHTML = year;

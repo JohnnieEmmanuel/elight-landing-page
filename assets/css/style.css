@@ -746,19 +746,20 @@ a:focus {
 
 #contact .contact-inner i {
     display: inline-block;
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
     margin-bottom: 10px;
-    padding: 22px 0;
+    padding: 15px 0;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     color: #ffffff;
     background: #161f4f;
     border-radius: 80px;
+    margin-right: 10px;
 }
 
 #contact .contact-inner p {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 200;
     margin-bottom: 30px;
 }
